@@ -1,0 +1,3 @@
+[submodule "CVE-2024-28397"]
+	path = CVE-2024-28397
+	url = https://github.com/Marven11/CVE-2024-28397-js2py-Sandbox-Escape
