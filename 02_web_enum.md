@@ -1,6 +1,6 @@
 ## Web Enumeration
 ### Entry Points
-- 
+```- 
 ❯ feroxbuster -u http://horizontall.htb/
                                                                                            
  ___  ___  __   __     __      __         __   ___
@@ -36,7 +36,7 @@ by Ben "epi" Risher 🤓                 ver: 2.13.1
 [####################] - 35s    30000/30000   850/s   http://horizontall.htb/js/ 
 [####################] - 35s    30000/30000   846/s   http://horizontall.htb/css/ 
 [####################] - 35s    30000/30000   851/s   http://horizontall.htb/img/
-
+```
 
 ## Website Research
 
