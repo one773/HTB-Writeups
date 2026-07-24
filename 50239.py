@@ -1,3 +1,4 @@
+# I UPDATED MY OS AND IT FUCKED UP MY dot files....
 # Exploit Title: Strapi CMS 3.0.0-beta.17.4 - Remote Code Execution (RCE) (Unauthenticated)
 # Date: 2021-08-30
 # Exploit Author: Musyoka Ian
